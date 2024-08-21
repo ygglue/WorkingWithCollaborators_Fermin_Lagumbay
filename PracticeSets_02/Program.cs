@@ -17,7 +17,7 @@ namespace PracticeSets_02
                     Console.WriteLine($"{i} is even");
                 }
             }
-            Console.WriteLine("hi eli");
+            Console.WriteLine("hi mike");
             Console.ReadKey();
 
         }
