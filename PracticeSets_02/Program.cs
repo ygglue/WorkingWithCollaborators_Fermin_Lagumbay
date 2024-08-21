@@ -12,12 +12,11 @@ namespace PracticeSets_02
         {
             for (int i = 1; i >= 20; i++)
             {
-                if (i % 2 == 0)
+                if (i % 2 == 1)
                 {
-                    Console.WriteLine($"{i} is even");
+                    Console.WriteLine($"{i} is odd");
                 }
             }
-            Console.WriteLine("hi mike");
             Console.ReadKey();
 
         }
